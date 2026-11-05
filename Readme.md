@@ -7,7 +7,7 @@
 
 **Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org).**
 
-## Table of contents
+## Table of contnts
 
 - [Installation](#installation)
 - [Features](#features)
